@@ -28,7 +28,7 @@ Además, esta aplicación web permitirá la creación, carga de datos, modificac
 
 Modificar o eliminar un equipo implica la desvinculación de sus corredores, por lo que convertir el campo `id_team` a `NULL` se considera la opción correcta.
 
-<img alt="Diagrama de Entidad-Relación" src="./DER.PNG" />
+<img alt="Diagrama de Entidad-Relación" src="./erd.png" />
 
 ----------------------------------
 
@@ -51,4 +51,4 @@ Additionally, this web app will support the creation, data entry, modification, 
 
 Modifying or deleting a team will disassociate its drivers, so setting the `id_team` field to `NULL` is considered the correct approach.
 
-<img alt="Entity Relationship Diagram" src="./DER.PNG" />
+<img alt="Entity Relationship Diagram" src="./erd.png" />
